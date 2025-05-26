@@ -1,0 +1,182 @@
+[
+  {
+    "city": "Phoenix",
+    "state": "AZ",
+    "lat": 33.4484367,
+    "lon": -112.074141
+  },
+  {
+    "city": "Flagstaff",
+    "state": "AZ",
+    "lat": 35.1987522,
+    "lon": -111.6518229
+  },
+  {
+    "city": "Los Angeles",
+    "state": "CA",
+    "lat": 34.0536909,
+    "lon": -118.242766
+  },
+  {
+    "city": "Denver",
+    "state": "CO",
+    "lat": 39.7392364,
+    "lon": -104.984862
+  },
+  {
+    "city": "Naperville",
+    "state": "IL",
+    "lat": 41.7728699,
+    "lon": -88.1479278
+  },
+  {
+    "city": "Boise",
+    "state": "ID",
+    "lat": 43.6166163,
+    "lon": -116.200886
+  },
+  {
+    "city": "Jersey City",
+    "state": "NJ",
+    "lat": 40.7215682,
+    "lon": -74.047455
+  },
+  {
+    "city": "New York City",
+    "state": "NY",
+    "lat": 40.7127281,
+    "lon": -74.0060152
+  },
+  {
+    "city": "Charlotte",
+    "state": "NC",
+    "lat": 35.2272086,
+    "lon": -80.8430827
+  },
+  {
+    "city": "Raleigh",
+    "state": "NC",
+    "lat": 35.7803977,
+    "lon": -78.6390989
+  },
+  {
+    "city": "Wilmington",
+    "state": "NC",
+    "lat": 34.2257282,
+    "lon": -77.9447107
+  },
+  {
+    "city": "Bellingham",
+    "state": "WA",
+    "lat": 48.7544012,
+    "lon": -122.478836
+  },
+  {
+    "city": "Seattle",
+    "state": "WA",
+    "lat": 47.6038321,
+    "lon": -122.330062
+  },
+  {
+    "city": "Dover",
+    "state": "DE",
+    "lat": 39.158168,
+    "lon": -75.5243682
+  },
+  {
+    "city": "Atlanta",
+    "state": "GA",
+    "lat": 33.7489924,
+    "lon": -84.3902644
+  },
+  {
+    "city": "Greenville",
+    "state": "SC",
+    "lat": 34.851354,
+    "lon": -82.3984882
+  },
+  {
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "lat": 33.6956461,
+    "lon": -78.8900409
+  },
+  {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "lat": 43.5488256,
+    "lon": -96.7307737
+  },
+  {
+    "city": "Springfield",
+    "state": "MO",
+    "lat": 37.1968298,
+    "lon": -93.2946576
+  },
+  {
+    "city": "Las Vegas",
+    "state": "NV",
+    "lat": 36.1672559,
+    "lon": -115.148516
+  },
+  {
+    "city": "Portland",
+    "state": "ME",
+    "lat": 43.6610277,
+    "lon": -70.2548596
+  },
+  {
+    "city": "Austin",
+    "state": "TX",
+    "lat": 30.2711286,
+    "lon": -97.7436995
+  },
+  {
+    "city": "Dallas",
+    "state": "TX",
+    "lat": 32.7762719,
+    "lon": -96.7968559
+  },
+  {
+    "city": "Houston",
+    "state": "TX",
+    "lat": 29.7589382,
+    "lon": -95.3676974
+  },
+  {
+    "city": "San Antonio",
+    "state": "TX",
+    "lat": 29.4246002,
+    "lon": -98.4951405
+  },
+  {
+    "city": "Orlando",
+    "state": "FL",
+    "lat": 28.5421109,
+    "lon": -81.3790304
+  },
+  {
+    "city": "Sarasota",
+    "state": "FL",
+    "lat": 27.3365805,
+    "lon": -82.5308545
+  },
+  {
+    "city": "Tampa",
+    "state": "FL",
+    "lat": 27.9477595,
+    "lon": -82.458444
+  },
+  {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "lat": 40.7596198,
+    "lon": -111.8867975
+  },
+  {
+    "city": "Nashville",
+    "state": "TN",
+    "lat": 36.1622767,
+    "lon": -86.7742984
+  }
+]
